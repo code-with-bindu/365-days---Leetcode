@@ -658,11 +658,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 
 ```
 
-Pinned by Michael Song
-Roman Shiva
-4 days ago
-i completed 700 leetcode problems..
-here are the lessons i learnt
+
 
 1. consistency is the key
 2. make short notes for every problem 
@@ -703,7 +699,6 @@ all the best!! and happy coding ❤️
 - week = 13.5
 - 100*13.5 = 1350 (1000)
 - 700 Days 
-- 100 days bakchodi 
 - 100 - A (topics -------)
 - 100 - B (topics -----)
 - 100 - C (topics ---)
